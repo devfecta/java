@@ -8,11 +8,7 @@ public class Main {
     {
 		ArrayExample arrayExample = new ArrayExample();
 		
-		arrayExample.displayArray();
-		System.out.println("\r");
-		arrayExample.displayArrayList();
-		System.out.println("\r");
-		arrayExample.displayList();
+		
         
     }
 }

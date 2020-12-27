@@ -32,10 +32,13 @@ public class SwApi {
 			HttpURLConnection conn = (HttpURLConnection) swapi.openConnection();
 	        conn.setRequestMethod("GET");
 	        conn.setRequestProperty("Accept", "application/json");
+
+	        //TimeUnit.SECONDS.timedWait(conn, 3);
 	        
 	        if (conn.getResponseCode() == 200) {
 	        	BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
 	        	this.setSwJson(reader);
+	        	reader.close();
 	        }
 			
 		} catch (MalformedURLException e) {
@@ -45,6 +48,7 @@ public class SwApi {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		finally {}
 	}
 
 

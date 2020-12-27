@@ -10,13 +10,20 @@ import com.starwars.SwApi;
 
 public class ArrayExample {
 	
-	//static Random rand = new Random();
+	SwApi swapi =  new SwApi();
 	
-	//static String url;
-	//public String characterName;
-	SwApi swapi = new SwApi();
+	public ArrayExample() {
+		
+		displayArray();
+		System.out.println("\r");
+		displayArrayList();
+		System.out.println("\r");
+		displayList();
+		
+	}
 	
 	public void displayArray() {
+		
 		String[] stringArray = new String[3];
 		
 		System.out.println("Name: " + swapi.getSwJson().getString("name"));
@@ -62,18 +69,10 @@ public class ArrayExample {
 			System.out.println("displayList Loop: " + character.getString("name"));
 		}
 		
-
-		/*
-		System.out.println((String) stringArray.toString());
-		stringArray.remove(0);
-		System.out.println((String) stringArray.toString());
-		stringArray.add("Leia");
-		System.out.println((String) stringArray.toString());
-		*/
 	}
 	
 	public void displayArrayList() {
-		List<SwApi> swApiArray = new ArrayList<>();
+		ArrayList<SwApi> swApiArray = new ArrayList<>();
 		
 		swApiArray.add(swapi);
 		swApiArray.add(new SwApi());
