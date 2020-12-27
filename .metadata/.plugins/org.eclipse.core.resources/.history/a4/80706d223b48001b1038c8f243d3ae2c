@@ -1,0 +1,29 @@
+package com.devfecta;
+
+import com.devfecta.arrays.ArrayExample;
+
+public class Main {
+	public static void main( String[] args )
+    {
+		ArrayExample arrayExample = new ArrayExample();
+		
+    	//Gson gson = new Gson();
+        //System.out.println(gson.toJson("Hello World!"));
+        //System.out.println(displayArray());
+		arrayExample.displayArray();
+		System.out.println("\r");
+		arrayExample.displayArrayList();
+		System.out.println("\r");
+		arrayExample.displayList();
+        
+    }
+    /*
+    public static String displayArray() {
+    	List<String> sampleArrayList = new ArrayList<String>();
+    	sampleArrayList.add("Luke");
+    	sampleArrayList.add("Han");
+    	sampleArrayList.add("Lando");
+    	return sampleArrayList.get(2);
+    }
+    */
+}

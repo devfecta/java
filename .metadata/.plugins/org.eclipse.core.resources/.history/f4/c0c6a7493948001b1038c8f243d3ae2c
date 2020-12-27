@@ -1,0 +1,27 @@
+package com.devfecta.maven.basics;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.*;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+	App app = new App();
+
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+    	assertTrue(true);
+    }
+    
+    @Test
+    public void displayArrayTest() {
+    	assertEquals(app.displayArray(), "test");
+    }
+}
