@@ -1,17 +1,25 @@
 package com.devfecta.maven.basics;
 
-import static org.junit.jupiter.api.Assertions.*;
+//import java.lang.reflect.Type;
 
 import org.junit.jupiter.api.*;
 
-import com.devfecta.maven.Basics;
+//import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+
+import com.devfecta.arrays.*;
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
-	Basics app = new Basics();
+	static ArrayExample arrayExample = new ArrayExample();
+	
+	@BeforeAll
+	public static void initial() {
+		
+	}
 
     /**
      * Rigorous Test :-)
@@ -24,6 +32,7 @@ public class AppTest
     
     @Test
     public void displayArrayTest() {
-    	assertEquals(app.displayArray(), "test");
+    	//System.out.println(arrayExample.characterName);
+    	//assertEquals(arrayExample.characterName.getClass(), "String");
     }
 }

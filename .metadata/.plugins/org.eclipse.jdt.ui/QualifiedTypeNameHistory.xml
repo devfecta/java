@@ -2,6 +2,11 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.google.gson.Gson"/>
 <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+<fullyQualifiedTypeName name="com.devfecta.maven.Basics"/>
+<fullyQualifiedTypeName name="com.devfecta.arrays.ArrayExample"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Type"/>
+<fullyQualifiedTypeName name="com.starwars.SwApi"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

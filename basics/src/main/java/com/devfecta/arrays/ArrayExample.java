@@ -1,61 +1,34 @@
 package com.devfecta.arrays;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 
 import org.json.*;
 
+import com.starwars.SwApi;
+
 public class ArrayExample {
 	
-	static Random rand = new Random();
+	//static Random rand = new Random();
 	
-	static String url;
+	//static String url;
+	//public String characterName;
+	SwApi swapi = new SwApi();
 	
 	public void displayArray() {
 		String[] stringArray = new String[3];
 		
-		int randomNumber = rand.nextInt((83 - 1) + 1) + 1;
+		System.out.println("Name: " + swapi.getSwJson().getString("name"));
 		
-		url = "https://swapi.dev/api/people/" + randomNumber + "/";
-		try {
-			URL swapi = new URL(url);
-			HttpURLConnection conn = (HttpURLConnection) swapi.openConnection();
-	        conn.setRequestMethod("GET");
-	        conn.setRequestProperty("Accept", "application/json");
-	        
-	        if (conn.getResponseCode() == 200) {
-	        	BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-		        
-	        	JSONObject jsonObject = new JSONObject(reader.readLine());
-		        
-				System.out.println(jsonObject.getString("name"));
-	        }
-	        
-	        
-			
-		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-			
-		stringArray[0] = "Luke";
-		stringArray[1] = "Han";
-		stringArray[2] = "Yoda";
+		stringArray[0] = swapi.getSwJson().getString("name");
+		stringArray[1] = swapi.getSwJson().getString("name");
+		swapi = new SwApi();
+		stringArray[2] = swapi.getSwJson().getString("name");
 		
-		System.out.println(Arrays.toString(stringArray));
+		System.out.println("displayArray: " + Arrays.toString(stringArray));
 		System.out.println("Length: " + stringArray.length);
-		
+		/*
 		String[] tempArray = new String[stringArray.length - 1];
 		int tempIndex = 0;
 		
@@ -66,37 +39,57 @@ public class ArrayExample {
 			tempArray[tempIndex] = s;
 			tempIndex++;
 		}
+		*/
+		//System.out.println(Arrays.toString(tempArray));
+		//System.out.println("Length: " + tempArray.length);
 		
-		System.out.println(Arrays.toString(tempArray));
-		System.out.println("Length: " + tempArray.length);
 	}
 	
 	public void displayList() {
-		List<String> stringArray = new ArrayList<>();
+		List<SwApi> swApiArray = new ArrayList<>();
 		
-		stringArray.add("Chewbacca");
-		stringArray.add("Wicket");
-		stringArray.add("Leia");
-		//stringArray.addAll("")
+		swApiArray.add(swapi);
+		swApiArray.add(swapi);
+		swApiArray.add(swapi);
 		
+		System.out.println("displayList: " + swApiArray.get(0).getSwJson().getString("name"));
+		System.out.println("displayList: " + swApiArray.get(1).getSwJson().getString("name"));
+		System.out.println("displayList: " + swApiArray.get(2).getSwJson().getString("name"));
+		System.out.println("displayList Size: " + swApiArray.size());
+		
+		for (SwApi c : swApiArray) {
+			JSONObject character = c.getSwJson();
+			System.out.println("displayList Loop: " + character.getString("name"));
+		}
+		
+
+		/*
 		System.out.println((String) stringArray.toString());
 		stringArray.remove(0);
 		System.out.println((String) stringArray.toString());
 		stringArray.add("Leia");
 		System.out.println((String) stringArray.toString());
+		*/
 	}
 	
 	public void displayArrayList() {
-		ArrayList<String> stringArray = new ArrayList<>();
+		List<SwApi> swApiArray = new ArrayList<>();
 		
-		stringArray.add("Darth");
-		stringArray.add("Boba");
-		stringArray.add("Jabba");
+		swApiArray.add(swapi);
+		swApiArray.add(new SwApi());
+		swApiArray.add(swapi);
 		
-		System.out.println((String) stringArray.toString());
-		System.out.println("Length: " + stringArray.size());
-		stringArray.remove(0);
-		System.out.println((String) stringArray.toString());
-		System.out.println("Length: " + stringArray.size());
+		System.out.println("displayArrayList: " + swApiArray.get(0).getSwJson().getString("name"));
+		System.out.println("displayArrayList: " + swApiArray.get(1).getSwJson().getString("name"));
+		System.out.println("displayArrayList: " + swApiArray.get(2).getSwJson().getString("name"));
+		
+		swApiArray.remove(1);
+		System.out.println("displayArrayList 1 Removed");
+		
+		for (SwApi c : swApiArray) {
+			JSONObject character = c.getSwJson();
+			System.out.println("displayArrayList Loop: " + character.getString("name"));
+		}
+		System.out.println("displayArrayList Size: " + swApiArray.size());
 	}
 }

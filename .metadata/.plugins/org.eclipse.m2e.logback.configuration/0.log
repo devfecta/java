@@ -601,3 +601,216 @@
 2020-12-27 06:00:58,453 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
 2020-12-27 06:00:58,454 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-27 06:00:58,454 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:45:18,205 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:18,205 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:45:18,206 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:18,206 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:45:19,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:19,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:45:19,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:19,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:45:25,965 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:25,965 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:45:25,966 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:45:25,966 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:46:54,936 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:46:54,936 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:46:54,938 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:46:54,938 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:48:28,213 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:48:28,213 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:48:28,214 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:48:28,214 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 08:51:16,496 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:51:16,496 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 08:51:16,498 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 08:51:16,498 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:00:13,121 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:00:13,121 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:00:13,122 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:00:13,122 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:00:53,326 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:00:53,326 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:00:53,328 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:00:53,329 [Worker-30: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:02:31,067 [Worker-33: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:02:31,067 [Worker-33: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:02:31,068 [Worker-33: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:02:31,068 [Worker-33: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:02:56,178 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:02:56,179 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:02:56,179 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:02:56,179 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:03:38,063 [Worker-31: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:03:38,063 [Worker-31: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:03:38,063 [Worker-31: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:03:38,063 [Worker-31: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:03:54,477 [Worker-26: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:03:54,477 [Worker-26: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:03:54,477 [Worker-26: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:03:54,477 [Worker-26: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:04:54,013 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:04:54,013 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:04:54,014 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:04:54,014 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:05:14,840 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:05:14,840 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:05:14,847 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:05:14,847 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:06:25,256 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:06:25,256 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:06:25,257 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:06:25,257 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:08:57,233 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:08:57,234 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:08:57,234 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:08:57,234 [Worker-32: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:09:34,549 [Worker-27: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:09:34,549 [Worker-27: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:09:34,549 [Worker-27: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:09:34,549 [Worker-27: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:10:19,088 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:10:19,088 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:10:19,089 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:10:19,089 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:11:18,811 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:11:18,811 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:11:18,812 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:11:18,812 [Worker-34: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:19:40,110 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:19:40,110 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:19:40,111 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:19:40,111 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:22:58,982 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:22:58,982 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:22:58,989 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:22:58,989 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 09:43:28,622 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:43:28,622 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 09:43:28,623 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 09:43:28,623 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:25:37,438 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:25:37,438 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:25:37,439 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:25:37,439 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:28:28,811 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:28:28,811 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:28:28,811 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:28:28,812 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:28:46,430 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:28:46,430 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:28:46,431 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:28:46,431 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:29:17,701 [Worker-46: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:29:17,701 [Worker-46: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:29:17,701 [Worker-46: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:29:17,701 [Worker-46: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:29:58,075 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:29:58,075 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:29:58,076 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:29:58,076 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:30:20,530 [Worker-39: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:30:20,530 [Worker-39: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:30:20,530 [Worker-39: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:30:20,531 [Worker-39: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:30:38,354 [Worker-50: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:30:38,354 [Worker-50: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:30:38,355 [Worker-50: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:30:38,355 [Worker-50: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:43:15,658 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:43:15,658 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:43:15,658 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:43:15,659 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:45:45,747 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:45:45,747 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:45:45,748 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:45:45,748 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:48:20,733 [Worker-39: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:48:20,734 [Worker-39: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:48:20,734 [Worker-39: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:48:20,734 [Worker-39: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:49:04,847 [Worker-51: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:49:04,847 [Worker-51: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:49:04,848 [Worker-51: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:49:04,848 [Worker-51: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:49:29,241 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:49:29,241 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:49:29,242 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:49:29,242 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 10:55:44,145 [Worker-61: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:55:44,145 [Worker-61: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 10:55:44,149 [Worker-61: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 10:55:44,150 [Worker-61: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:00:08,827 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:00:08,827 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:00:08,833 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:00:08,833 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:01:03,485 [Worker-63: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:01:03,485 [Worker-63: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:01:03,487 [Worker-63: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:01:03,487 [Worker-63: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:01:29,967 [Worker-56: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:01:29,967 [Worker-56: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:01:29,967 [Worker-56: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:01:29,967 [Worker-56: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:05:19,134 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:05:19,134 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:05:19,135 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:05:19,135 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:05:52,703 [Worker-67: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:05:52,703 [Worker-67: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:05:52,704 [Worker-67: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:05:52,704 [Worker-67: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:06:34,629 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:06:34,629 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:06:34,630 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:06:34,630 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:08:02,715 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:08:02,715 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:08:02,716 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:08:02,716 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:15:25,470 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:15:25,470 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:15:25,471 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:15:25,471 [Worker-66: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:16:28,912 [Worker-68: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:16:28,912 [Worker-68: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:16:28,912 [Worker-68: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:16:28,912 [Worker-68: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:28:22,566 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:28:22,566 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:28:22,566 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:28:22,566 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:29:56,394 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:29:56,394 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:29:56,395 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:29:56,395 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:30:45,710 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:30:45,710 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:30:45,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:30:45,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:31:09,371 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:31:09,371 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:31:09,372 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:31:09,372 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:31:29,656 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:31:29,657 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:31:29,658 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:31:29,662 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:32:59,911 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:32:59,914 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:32:59,915 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:32:59,915 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:38:57,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:38:57,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:38:57,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:38:57,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:40:09,170 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:40:09,170 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:40:09,170 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:40:09,170 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
+2020-12-27 11:42:53,951 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-27 11:44:26,303 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:44:26,303 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/main/resources
+2020-12-27 11:44:26,308 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-27 11:44:26,308 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/devfecta/java-workspace/basics/src/test/resources
