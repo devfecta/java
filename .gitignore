@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 bin/
 *.class
+=======
+*.class
+.metadata/
+>>>>>>> 6b8410f46bdcb34a4690e62f50eaa7a9365452be
