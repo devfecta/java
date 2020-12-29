@@ -14,7 +14,7 @@ import com.devfecta.arrays.*;
  */
 public class AppTest 
 {
-	static ArrayExample arrayExample = new ArrayExample();
+	//static ArrayExample arrayExample = new ArrayExample();
 	
 	@BeforeAll
 	public static void initial() {

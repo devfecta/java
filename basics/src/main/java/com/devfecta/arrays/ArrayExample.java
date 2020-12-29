@@ -1,28 +1,18 @@
 package com.devfecta.arrays;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
-
-import org.json.*;
 
 import com.starwars.SwApi;
 
 public class ArrayExample {
 	
-	SwApi swapi =  new SwApi();
-	
-	public ArrayExample() {
+	public ArrayExample(SwApi swapi) {
 		
-		displayArray();
-		System.out.println("\r");
-		displayArrayList();
-		System.out.println("\r");
-		displayList();
+		displayArray(swapi);
 		
 	}
 	
-	public void displayArray() {
+	public void displayArray(SwApi swapi) {
 		
 		String[] stringArray = new String[3];
 		
@@ -33,6 +23,9 @@ public class ArrayExample {
 		swapi = new SwApi();
 		stringArray[2] = swapi.getSwJson().getString("name");
 		
+		System.out.println("displayArray: " + Arrays.toString(stringArray));
+		System.out.println("Length: " + stringArray.length);
+		stringArray[1] = null;
 		System.out.println("displayArray: " + Arrays.toString(stringArray));
 		System.out.println("Length: " + stringArray.length);
 		/*
@@ -52,43 +45,5 @@ public class ArrayExample {
 		
 	}
 	
-	public void displayList() {
-		List<SwApi> swApiArray = new ArrayList<>();
-		
-		swApiArray.add(swapi);
-		swApiArray.add(swapi);
-		swApiArray.add(swapi);
-		
-		System.out.println("displayList: " + swApiArray.get(0).getSwJson().getString("name"));
-		System.out.println("displayList: " + swApiArray.get(1).getSwJson().getString("name"));
-		System.out.println("displayList: " + swApiArray.get(2).getSwJson().getString("name"));
-		System.out.println("displayList Size: " + swApiArray.size());
-		
-		for (SwApi c : swApiArray) {
-			JSONObject character = c.getSwJson();
-			System.out.println("displayList Loop: " + character.getString("name"));
-		}
-		
-	}
 	
-	public void displayArrayList() {
-		ArrayList<SwApi> swApiArray = new ArrayList<>();
-		
-		swApiArray.add(swapi);
-		swApiArray.add(new SwApi());
-		swApiArray.add(swapi);
-		
-		System.out.println("displayArrayList: " + swApiArray.get(0).getSwJson().getString("name"));
-		System.out.println("displayArrayList: " + swApiArray.get(1).getSwJson().getString("name"));
-		System.out.println("displayArrayList: " + swApiArray.get(2).getSwJson().getString("name"));
-		
-		swApiArray.remove(1);
-		System.out.println("displayArrayList 1 Removed");
-		
-		for (SwApi c : swApiArray) {
-			JSONObject character = c.getSwJson();
-			System.out.println("displayArrayList Loop: " + character.getString("name"));
-		}
-		System.out.println("displayArrayList Size: " + swApiArray.size());
-	}
 }
